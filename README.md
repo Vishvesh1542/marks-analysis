@@ -5,7 +5,7 @@ This is a small app which is only used by a specific people studying in a specif
 This uses python and QT to create a simple UI which makes it easy to analyse your marks in all of your exams.
 
 # Where to download
-[Click here](www.example.com) To download the latest release.
+[Click here](https://github.com/Vishvesh1542/marks-analysis/releases/tag/alpha) To download the latest release.
 
 **Note:** If windows prevents the app from running (because of invalid signatures) just click advanced and click 'run anyway'. If you do not trust the app,
 you can run the app using python and the source files.
